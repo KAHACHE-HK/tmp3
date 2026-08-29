@@ -1,4 +1,4 @@
-.chorus/daemon.json
+.chorus/daemon.json to point to powershell script
 
 {
   "agents": [
